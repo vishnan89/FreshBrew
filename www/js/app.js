@@ -1,5 +1,6 @@
 var app = angular.module('freshbrew', [
 	'ionic',
+    'ngCordova',
 	'freshbrew.controllers',
 	'freshbrew.services',
 	'freshbrew.filters'

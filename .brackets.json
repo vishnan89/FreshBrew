@@ -1,5 +1,11 @@
 {
     "jscodehints.detectedExclusions": [
-        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova.js"
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova.min.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/lib/platform/platform.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/plugins/com.ionic.keyboard/www/keyboard.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/www/js/controllers.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/www/js/app.js"
     ]
 }

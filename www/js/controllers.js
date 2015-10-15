@@ -1,4 +1,4 @@
-var app = angular.module('freshbrew.controllers', []);
+var app = angular.module('freshbrew.controllers', ['ngCordova']);
 
 app.controller("YelpController", function ($scope, YelpService) {
 	$scope.yelp = YelpService;
@@ -19,5 +19,14 @@ app.controller("YelpController", function ($scope, YelpService) {
                 $scope.$broadcast('scroll.infiniteScrollComplete');
             });
         }
+    };
+    
+    $scope.getDirections = function() {
+        
+    
+    };
+    
+    $scope.openMap = function() {
+    
     };
 });

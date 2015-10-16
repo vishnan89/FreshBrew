@@ -6,6 +6,9 @@
         "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/plugins/com.ionic.keyboard/www/keyboard.js",
         "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-console/www/console-via-logger.js",
         "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/www/js/controllers.js",
-        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/www/js/app.js"
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/www/js/app.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/plugins/uk.co.workingedge.phonegap.plugin.LaunchNavigator/www/android/launchnavigator.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/cordova.js",
+        "C:/Users/Vishnu/Development/Projects/Ionic/freshbrew/platforms/android/build/intermediates/assets/debug/www/cordova_plugins.js"
     ]
 }
